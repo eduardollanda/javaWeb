@@ -30,7 +30,7 @@
                     <div class="login-panel panel panel-default">
                         <div class="panel-heading">
                         <div class="alert alert-danger" role="alert">
- 							Usuario ou senha incorretos :)
+ 							Usuario ou senha incorretos 
 						</div>
                         <h2></h2>
                             <h3 class="panel-title">LOGAR</h3>
